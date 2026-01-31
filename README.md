@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents a large-scale healthcare data analysis of dietary supplement and herbal product adverse events using the FDA Adverse Event Reporting System (FAERS) database for April–June 2025 (Q2 2025).
+This project presents a large-scale analysis of healthcare data on dietary supplement and herbal product adverse events using the FDA Adverse Event Reporting System (FAERS) for the period of April–June 2025 (Q2 2025).
 
 The analysis focuses on identifying high-risk supplements, understanding side effect patterns, evaluating severity outcomes, and generating actionable safety insights using structured analytics methodology and Excel Power Query.
 
