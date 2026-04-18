@@ -1,5 +1,4 @@
 # FDA FAERS Adverse Event Analysis — Q2 2025
-<img width="3924" height="734" alt="image" src="https://github.com/user-attachments/assets/a33a908e-cf5b-40b4-b454-3b3339e73295" />
 
 ## Project Overview
 Large-scale analysis of 393,131 adverse event reports submitted to the 
