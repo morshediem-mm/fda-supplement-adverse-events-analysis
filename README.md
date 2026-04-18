@@ -1,5 +1,5 @@
 # FDA FAERS Adverse Event Analysis — Q2 2025
-
+![Dashboard](visualizations/dashboard_screenshot.png)
 ## Project Overview
 Large-scale analysis of 393,131 adverse event reports submitted to the 
 FDA Adverse Event Reporting System (FAERS) in Q2 2025 (April–June 2025).
