@@ -5,8 +5,7 @@ and logic used to answer the project questions.
 
 ## Excel Dashboard File
 The full Excel workbook is available as a GitHub Release:
-[Download FDA_FAERS_Dashboard.xlsx](../../releases/latest)
-
+[Download Excel Dashboard](https://github.com/morshediem-mm/fda-supplement-adverse-events-analysis/releases)
 ## Analytical Steps Performed
 
 ### Step 1 — Data Import
