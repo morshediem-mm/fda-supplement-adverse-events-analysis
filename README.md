@@ -1,5 +1,4 @@
-# FDA FAERS Adverse Event Analysis — Q2 2025
-### Excel Dashboard Project
+# FDA FAERS Adverse Event Analysis — Q2 2025 | Excel Dashboard
 ![Dashboard](visualizations/dashboard_screenshot.png)
 ## Project Overview
 Large-scale analysis of 393,131 adverse event reports submitted to the 
